@@ -45,6 +45,10 @@ section {
     border: solid 2px var(--color1);
 }
 
+.addtion {
+    white-space: no-wrap;
+}
+
 header {
     display: flex;
     justify-content: flex-end;
